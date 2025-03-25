@@ -1,18 +1,14 @@
-## Getting Started
+# Information about the repo
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Hardcore Exercises of Recursion with Java. Witness my suffering trying to improve my logic 🙂
 
 ## Folder Structure
 
 The workspace contains two folders by default, where:
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+- [`src`](./src): the folder to maintain sources.
+- [`exercises-images`](./exercises-images): the folder of the instructions of each exercise solved.
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+## Solved Exercises
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+- [`Leibniz-SeriesProblem`](./exercises-images/leibniz.png): Recursive method that solves the problem: [`LeibnizSeries.java`](./src/LeibnizSeries.java)
